@@ -1,0 +1,18 @@
+{
+  "name": "sanctum-js",
+  "version": "0.1.0",
+  "description": "This library is a simple Python client for the Sanctum API. It's aimed to  help automate your LSTs management.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sanctum", "solana", "api"],
+  "author": "Defilogist <defilogist@thewise.trade>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
